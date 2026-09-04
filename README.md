@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Syed Shuja 👋
 
-<!--
-**SyedShuja08/SyedShuja08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student  
+🐍 Learning Python  
+🤖 Exploring AI/ML  
+🏆 Interested in Hackathons  
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Programming fundamentals
+- Git & GitHub
+- AI & Machine Learning
+
+## About Me
+
+I'm an engineering student currently building my programming fundamentals with Python and exploring the world of AI/ML.
+
+I enjoy learning by building projects and taking part in hackathons.
+
+🚀 Always learning. Always building.
