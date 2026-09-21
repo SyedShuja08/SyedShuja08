@@ -10,7 +10,6 @@
 * Programming fundamentals
 * Git & GitHub
 * AI & Machine Learning
-* Backend Development
 * Problem Solving
 
 ## Hackathons
