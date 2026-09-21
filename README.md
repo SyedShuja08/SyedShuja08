@@ -1,8 +1,8 @@
 # Hi, I'm Syed Shuja 👋
 
-*🎓 Engineering Student
-*🐍 Learning Python
-*🤖 Exploring AI/ML
+🎓 Engineering Student  
+🐍 Learning Python  
+🤖 Exploring AI/ML  
 
 ## Currently Learning
 
@@ -10,6 +10,7 @@
 * Programming fundamentals
 * Git & GitHub
 * AI & Machine Learning
+* Backend Development
 * Problem Solving
 
 ## Hackathons
